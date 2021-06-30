@@ -20,7 +20,6 @@ function setup(){
   seaImage.x=sea.width/2
 
   ship.scale = 0.5;
-  trex
   ship.x = 50
  
 }
